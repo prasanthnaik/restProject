@@ -36,7 +36,7 @@ public class getTutorials {
 	}
 	@Test
 	public void test() {
-		System.out.println(postTest());
+		System.out.println(postTest().toString());
 	}
 
 }
