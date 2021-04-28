@@ -38,7 +38,8 @@ public class getTutorials {
 	public void test() {
 
 		System.out.println(postTest().toString());
-		System.out.println();
+		System.out.println("Done");
+		//Successfull
 	}
 
 }
